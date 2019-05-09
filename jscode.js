@@ -13,7 +13,7 @@
    var y = 275;
 
    var dx = -1.5;
-   var dy = -1;
+   var dy = -1.75;
 
    var stickH = 10;
    var stickW = 70;
